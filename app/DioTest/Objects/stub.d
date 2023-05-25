@@ -1,0 +1,10 @@
+.\objects\stub.o: ..\..\AUTOSAR\STUB\Stub.c
+.\objects\stub.o: ..\..\AUTOSAR\STUB\Det.h
+.\objects\stub.o: D:\Ramp_Up_DCM_Implementation\GeneralTypes\Std_Types.h 
+.\objects\stub.o: D:\Ramp_Up_DCM_Implementation\GeneralTypes\Compiler.h
+.\objects\stub.o: D:\Ramp_Up_DCM_Implementation\GeneralTypes\Compiler_Cfg.h
+.\objects\stub.o: D:\Ramp_Up_DCM_Implementation\GeneralTypes\Platform_Types.h
+.\objects\stub.o: C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gpio.h
+.\objects\stub.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\stub.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\stub.o: C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_memmap.h

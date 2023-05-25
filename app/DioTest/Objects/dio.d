@@ -1,0 +1,17 @@
+.\objects\dio.o: ..\..\AUTOSAR\BSW\MCAL\DIO\src\Dio.c
+.\objects\dio.o: ..\..\AUTOSAR\BSW\MCAL\DIO\inc\Dio.h
+.\objects\dio.o: D:\Ramp_Up_DCM_Implementation\GeneralTypes\Std_Types.h 
+.\objects\dio.o: D:\Ramp_Up_DCM_Implementation\GeneralTypes\Compiler.h
+.\objects\dio.o: D:\Ramp_Up_DCM_Implementation\GeneralTypes\Compiler_Cfg.h
+.\objects\dio.o: D:\Ramp_Up_DCM_Implementation\GeneralTypes\Platform_Types.h
+.\objects\dio.o: ..\..\AUTOSAR\BSW\MCAL\DIO\gen\Dio_Cfg.h
+.\objects\dio.o: C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gpio.h
+.\objects\dio.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\dio.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\dio.o: ..\..\AUTOSAR\BSW\MCAL\DIO\integration\Dio_MemMap.h
+.\objects\dio.o: ..\..\AUTOSAR\BSW\MCAL\DIO\integration\SchM_Dio.h
+.\objects\dio.o: D:\Ramp_Up_DCM_Implementation\GeneralTypes\Common_Macros.h
+.\objects\dio.o: D:\Ramp_Up_DCM_Implementation\GeneralTypes\STD_Types.h
+.\objects\dio.o: C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_gpio.h
+.\objects\dio.o: C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_memmap.h
+.\objects\dio.o: ..\..\AUTOSAR\STUB\Det.h

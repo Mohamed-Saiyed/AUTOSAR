@@ -1,0 +1,17 @@
+.\objects\main.o: main.c
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_memmap.h
+.\objects\main.o: C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\debug.h
+.\objects\main.o: C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\sysctl.h
+.\objects\main.o: C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gpio.h
+.\objects\main.o: C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\interrupt.h
+.\objects\main.o: C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_ints.h
+.\objects\main.o: C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\i2c.h
+.\objects\main.o: C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\pin_map.h
+.\objects\main.o: ..\..\AUTOSAR\BSW\MCAL\DIO\inc\Dio.h
+.\objects\main.o: D:\Ramp_Up_DCM_Implementation\GeneralTypes\Std_Types.h 
+.\objects\main.o: D:\Ramp_Up_DCM_Implementation\GeneralTypes\Compiler.h
+.\objects\main.o: D:\Ramp_Up_DCM_Implementation\GeneralTypes\Compiler_Cfg.h
+.\objects\main.o: D:\Ramp_Up_DCM_Implementation\GeneralTypes\Platform_Types.h
+.\objects\main.o: ..\..\AUTOSAR\BSW\MCAL\DIO\gen\Dio_Cfg.h
